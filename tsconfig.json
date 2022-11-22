@@ -19,7 +19,7 @@
         "noUnusedParameters": true,
         "paths": {
             "@css/*": ["src/css/*"],
-            "@lib/*": ["src/lib/*"],
+            "@lib/*": ["src/lib/*"]
         }
     },
     "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],

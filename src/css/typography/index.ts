@@ -5,7 +5,7 @@ import { Typeface, typefaces } from "@css/typography/typeface";
 const fontWeights = {
     regular: 400,
     semiBold: 600,
-    bold: 700
+    bold: 700,
 } as const;
 
 type FontWeight = keyof typeof fontWeights;

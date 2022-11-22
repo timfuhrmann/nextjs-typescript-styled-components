@@ -1,5 +1,5 @@
-import {bp, breakpoints} from "@css/helper/breakpoints";
-import {zIndex} from "@css/helper/hierarchy";
+import { bp, breakpoints } from "@css/helper/breakpoints";
+import { zIndex } from "@css/helper/hierarchy";
 
 //@todo adjust theme
 export const theme = {
