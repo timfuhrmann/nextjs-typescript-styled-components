@@ -1,4 +1,4 @@
-This boilerplate is a [Next.js](https://nextjs.org/) project using [Typescript](https://www.typescriptlang.org/), [Playwright](https://playwright.dev/) and [Styled Components](https://styled-components.com/).
+This boilerplate is a [Next.js](https://nextjs.org/) project using [Typescript](https://www.typescriptlang.org/), [Styled Components](https://styled-components.com/), [Playwright](https://playwright.dev/) and [Storybook](https://storybook.js.org/).
 
 ## Getting Started
 
